@@ -1,0 +1,2 @@
+# Art. 6f Urnennischen
+1 In einer Urnennische dürfen höchstens zwei Urnen bestattet werden. Die Dauer der Grabesruhe wird durch die nachträgliche Urnenbestattung nicht verlängert. Das Anbringen von Grabschmuck an den Urnennischen ist nicht gestattet. Blumenschalen, Kerzen, Fotos und dergleichen dürfen nur bei der Bestattung hingestellt werden. Diese werden nach fünf Wochen abgeräumt. Die Kosten für die Beschriftung des Grabmals (Stein der Urnennische) gehen zulasten der Angehörigen.

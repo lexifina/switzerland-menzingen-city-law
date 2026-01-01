@@ -1,0 +1,2 @@
+# Art. 6h Gemeinschaftsgrab
+1 Das Gemeinschaftsgrab ist für Urnenbestattungen. Der Unterhalt und die Pflege erfolgen durch den Werkhof. Blumenschalen, Kerzen, Fotos und dergleichen dürfen nur bei der Bestattung hingestellt werden. Diese werden nach fünf Wochen abgeräumt. Beim Gemeinschaftsgrab können anonyme Bestattungen sowie solche mit einer Namensbeschriftung vorgenommen werden. Die Beschriftung wird zulasten der Angehörigen durch das Bestattungsamt veranlasst.

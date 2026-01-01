@@ -1,0 +1,2 @@
+# Art. 6e Urnenhaingräber
+1 Die Urnenhaingräber sind für Urnenbestattungen mit Grabmal. Bereits belegte Gräber dürfen für eine nachträgliche Aschenbestattung (ohne Urne) verwendet werden. Die Dauer der Grabesruhe wird durch die nachträgliche Aschenbestattung nicht verlängert. Blumenschalen, Kerzen, Fotos und dergleichen dürfen nur auf dem Grabstein hingestellt werden. Ausserhalb des Grabsteins ist das Hinstellen nur in den ersten fünf Wochen nach der Bestattung gestattet. Im Anschluss werden die Gegenstände abgeräumt.
