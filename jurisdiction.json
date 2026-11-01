@@ -1,0 +1,11 @@
+{
+  "path": "ch-zg-menzingen",
+  "code": "CH-ZG-MENZINGEN",
+  "name": "Menzingen (city)",
+  "level": "municipality",
+  "parent": "ch-zg",
+  "repo": "https://github.com/lexifina/switzerland-menzingen-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (41 acts, 41 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}

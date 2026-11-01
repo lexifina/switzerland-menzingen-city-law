@@ -1,0 +1,579 @@
+{
+ "country": "CH-ZG-MENZINGEN",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 24,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "36a260718399a2ac8d57cb27d5386a73a302a38d9ec56fac737096a0e9ccfceb"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-1",
+   "short": "SRS 1.2-1",
+   "title": "Benutzungsordnung für das Archiv",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 11,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "9cac519c854471e8ddfb82bb8d4042c30835fffb3a7162e30fb1e1454221c5af"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-2",
+   "short": "SRS 1.2-2",
+   "title": "Benutzerrichtlinie für die Ortseingangstafeln",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/1.2-2",
+   "versions": [
+    {
+     "from": "2000-04-10",
+     "units": 6,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/1.2-2",
+     "sha256": "8fc94b0a663d9dcd7dac1d998916cc755a1360b356664b2bca7b4f56884f18d2"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-1",
+   "short": "SRS 1.4-1",
+   "title": "Richtlinie für das Aufstellen von Wahl- und Abstimmungsplakaten",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/1.4-1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 9,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/1.4-1",
+     "sha256": "b1352a6bc8967076aa540f2d5f8043509b0c5ab763c6714a6ab4d47d917b03fa"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-delegations-und-kompetenzverordnung",
+   "short": "Delegations- und Kompetenzverordnung",
+   "title": "Verordnung über die Delegation von Kompetenzen des Gemeinderates an seine Mitglieder und die Verwaltung",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 47,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "1f48e310b590afb896c2be468e4c85550c07ec91c67b782a22cc1afd69785b6c"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2-delegationsbeschluss",
+   "short": "Delegationsbeschluss",
+   "title": "Beschluss über die Subdelegation von Entscheidungsbefugnissen der einzelnen Gemeinderatsmitglieder an die ihnen unterstellte Abteilung",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 9,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "a4bf76534cfa1b1e9f80a41942a1c9abf470090b11373de5497effe951c6e680"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-bpr",
+   "short": "BPR",
+   "title": "Behörden- und Personalreglement",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 25,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "8e8b10945a5ce6fbacb2c906c01df15c1e9fcb0dd9268dee395da11d184d85b1"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1",
+   "short": "SRS 1.7-1.1",
+   "title": "Personalverordnung",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/1.7-1.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 26,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/1.7-1.1",
+     "sha256": "2a470ba920662d38091be68b606b8c42bc387bd183ad8eac51750b92edf7099a"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-1",
+   "short": "SRS 2.1-1",
+   "title": "Verordnung über die Gebühren im Beurkundungswesen",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/2.1-1",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 11,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/2.1-1",
+     "sha256": "72b430198087d1034a010f541da7f7354f5fab8d9ca5ec20cd86458465324cc6"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1",
+   "short": "SRS 4.1-1",
+   "title": "Reglement über die familienergänzende Betreuung von Kindern",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/4.1-1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/4.1-1",
+     "sha256": "81675a7944e9ad4888b734bfc95c8c5eebb3e583e7c25c7ae6f9245111840715"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2",
+   "short": "SRS 4.2-2",
+   "title": "Reglement Schulzahnarzt-Dienst",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/4.2-2",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 11,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/4.2-2",
+     "sha256": "4cedb2a36b1e5c2d21571a32cf0883d7b521403aece8973fc82521a81d00b3a7"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2-1",
+   "short": "SRS 4.2-2.1",
+   "title": "Verordnung zum Reglement Schulzahnarzt-Dienst",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/4.2-2.1",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 7,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/4.2-2.1",
+     "sha256": "e879ebd49e33cb6819b392034561cbca27cd2b4495cbd8f318cda6d3726c15d1"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-3",
+   "short": "SRS 4.2-3",
+   "title": "Richtlinien Schulbus",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/4.2-3",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 8,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/4.2-3",
+     "sha256": "c96103b0242204c5bed7173203454af21966d782fcc6008e945ea617a9a95fc3"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-2",
+   "short": "SRS 4.3-2",
+   "title": "Zusammenarbeitsvertrag betreffend Musikschulen Menzingen und Neuheim",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/4.3-2",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 19,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/4.3-2",
+     "sha256": "8100e162c8bff090d74a0b9060238f6aeffff31eefdf613b869c1835973349bb"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-2-1",
+   "short": "SRS 4.3-2.1",
+   "title": "Ausführungsbestimmungen zum Zusammenarbeitsvertrag zwischen den Musikschulen Menzingen und Neuheim",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/4.3-2.1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 23,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/4.3-2.1",
+     "sha256": "26ec9f14644a29e83ad909c2c649b4c275c8c9506129dadca04fff598d03a2dd"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-2-2",
+   "short": "SRS 4.3-2.2",
+   "title": "Tarifordnung zum Zusammenarbeitsvertrag zwischen den Musikschulen Menzingen und Neuheim",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/4.3-2.2",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 5,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/4.3-2.2",
+     "sha256": "b789f2799bd0427bc6791ee2d3f87d8cb767816064acdbf09e8ce66a187af18a"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-3",
+   "short": "SRS 4.3-3",
+   "title": "Richtlinien zur Änderung der Unterrichtsdauer",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/4.3-3",
+   "versions": [
+    {
+     "from": "2011-05-16",
+     "units": 2,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/4.3-3",
+     "sha256": "6e90a6fc591a05ace72bd316d6b1f1b3f7c49623735a16c4ee2666f23b9750a9"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-1",
+   "short": "SRS 4.7-1",
+   "title": "Richtlinie für Ehrungen von Einzelpersonen, Vereinen, Firmen und Institutionen in Menzingen",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/4.7-1",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 6,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/4.7-1",
+     "sha256": "c181adc944e3774fb9f0d44af5988d3ff87bc9cd2c9f1813907f1b9d6189a723"
+    }
+   ]
+  },
+  {
+   "slug": "4-8-1",
+   "short": "SRS 4.8-1",
+   "title": "Richtlinie zur Förderung der gemeindlichen Vereine",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/4.8-1",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 14,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/4.8-1",
+     "sha256": "d1c7d9062b6947417d12b0c64bc937b2ecfa1de1f01e68860d4e6d27dd171ef5"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1",
+   "short": "SRS 5.1-1",
+   "title": "Verordnung über die Lärmbekämpfung",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/5.1-1",
+   "versions": [
+    {
+     "from": "1972-06-29",
+     "units": 14,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/5.1-1",
+     "sha256": "6e64824b52e5147696616d1a8e017453019803f4ed52a3b447fe15928a324fa5"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Feuerwehr-Reglement",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "1997-01-01",
+     "units": 14,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "1e02edeff10c0d3de6c7d80fc7324977e1909dc6bf3754396e041bc16a0fe509"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1",
+   "short": "SRS 6.4-1",
+   "title": "Verordnung zum Mahnwesen von Gebühren und Auslagen",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/6.4-1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 3,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/6.4-1",
+     "sha256": "89df046c82cab746831223bcd383238a761160856c92290631caf7b3adcd6dd9"
+    }
+   ]
+  },
+  {
+   "slug": "6-5-1",
+   "short": "SRS 6.5-1",
+   "title": "Richtlinie für die Vergabe der In- und Auslandhilfe",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/6.5-1",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 5,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/6.5-1",
+     "sha256": "5b46c29879cb7bd03d6629958af6579142f0bb64459792ed1ad5d9e336bde9b5"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Benützungsreglement Mehrzweckraum Eu",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2015-10-20",
+     "units": 28,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "b42f41b30aa66c58a936d2b38fd17699666d3b329a39aa2d0571ebfd3f6e1f51"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Benützungsreglement Sporthalle Ochsenmatt",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "2003-11-17",
+     "units": 31,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "d2af449fb1f95f23ea8893539b4458a464e8b21c1a62b6d2e7f4981f23034bc0"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3",
+   "short": "SRS 6.6-3",
+   "title": "Benützungsreglement Zentrum Schützenmatt",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/6.6-3",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 29,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/6.6-3",
+     "sha256": "90b338f5c8b6476817e0aaaa9d5bbedbc5d0c43c7ac6affc0c713a0d454c1fb6"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-4",
+   "short": "SRS 6.6-4",
+   "title": "Verordnung zur Benützung Mehrzweckraum Finstersee",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/6.6-4",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 25,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/6.6-4",
+     "sha256": "37cf6771e99abc8e06a8f7815ab5381f1218e78ed288b778486b85d9f989d61f"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-5",
+   "short": "SRS 6.6-5",
+   "title": "Verordnung zur Benützung des Spritzenhüslis",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/6.6-5",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 29,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/6.6-5",
+     "sha256": "b1ecb56e04d54ab5944c61373ec9b5f6c20c5d4c60aceb556e5088f9f369a8d2"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Bauordnung",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2017-04-05",
+     "units": 50,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "fc7b3b6efb6f5a075e6566d8f584c1b5f286d90caff28764cab1029c054ab7ab"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "SRS 7.1-2",
+   "title": "Parkplatzreglement",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 19,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "595e063628d1ffa5b00f2374a867817851e61158e30de420b157aedec32f1905"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1",
+   "short": "SRS 7.4.3-1",
+   "title": "Abwasserreglement",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/7.4.3-1",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 26,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/7.4.3-1",
+     "sha256": "b280cd0e9775563036e6d31f55efcb575c05536edfb9813778c3fdf9c90676fb"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-1-strassenreglement",
+   "short": "Strassenreglement",
+   "title": "Reglement über Strassen und Wege",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/7.6-1",
+   "versions": [
+    {
+     "from": "2009-01-15",
+     "units": 22,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/7.6-1",
+     "sha256": "3c29a6fd9a81d3ece69e5aa3b0fa8dad89674fa681a766bbe62b0a22391d4b75"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Reglement betreffend das Dauerparkieren auf gemeindlichen Strassen und Plätzen",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "1978-06-19",
+     "units": 10,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "a1e87b3ce445b14898c03f6ceb5a4571acbe09655a45be20d99aab4f0a374097"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-1",
+   "short": "SRS 8.1-1",
+   "title": "Verordnung zum Reglement über die familienergänzende Kinderbetreuung",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/8.1-1",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 28,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/8.1-1",
+     "sha256": "882976d23742ed800f211ca88e9e6dfd107f7a5246a3632d04a6f264986fb237"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-2-kinderbetreuungsreglement",
+   "short": "Kinderbetreuungsreglement",
+   "title": "Reglement über die familienergänzende Kinderbetreuung",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/8.1-2",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 7,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/8.1-2",
+     "sha256": "6b5b480569379cbea3fc5f40d9b1ff87bc7b4483f3fe9e6776e8d7ad1db18b1b"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-3",
+   "short": "SRS 8.1-3",
+   "title": "Verordnung über die Beiträge an ungedeckte Aufenthaltskosten in der Langzeitpflege",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/8.1-3",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 13,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/8.1-3",
+     "sha256": "d9188843c412134e289e6cc2e1d5c2d211befece93a15aaad3d78ebaaaaa7aaa"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Bestattungs- und Friedhofreglement",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 29,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "503cf50f61ffbaf07028d0c024dc537ff04377f044f3ccec19e2212b0565b8c2"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-2",
+   "short": "SRS 8.2-2",
+   "title": "Verordnung zum Bestattungs- und Friedhofreglement",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/8.2-2",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 28,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/8.2-2",
+     "sha256": "73bea4c09f5223ef072084f2ff000a58cbdbb4cfceb185f37b337d55b2e80e45"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1",
+   "short": "SRS 8.3-1",
+   "title": "Reglement über das Halten von Hunden und die Erhebung der Hundesteuer",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/8.3-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 9,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/8.3-1",
+     "sha256": "15cb00705d787adaa6f41ed1318cf8762c4dc629985de50992d8e61f0c85e121"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-1",
+   "short": "SRS 9.4-1",
+   "title": "Reglement zur Erhebung einer Beherbergungsabgabe",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/9.4-1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 10,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/9.4-1",
+     "sha256": "94a3abe984774fd77d5f1d14886d8a34dbf6cf07e25aec44c1388aeac47cd957"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1",
+   "short": "SRS 9.5-1",
+   "title": "Festlegung der Freinächte",
+   "url": "https://menzingen.tlex.ch/app/de/texts_of_law/9.5-1",
+   "versions": [
+    {
+     "from": "2004-10-25",
+     "units": 5,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/9.5-1",
+     "sha256": "3d2583ae83de2fdcb1a34bee35d35c781b9f00a64cd71067ebeae53e6bb9fa5a"
+    }
+   ]
+  }
+ ]
+}
