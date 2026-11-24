@@ -50,6 +50,12 @@
     "9-5-1"
    ],
    "sha256": "a77fd226a28ac2817382f367da842defd319db6bf53e9e41de502be813575cd9"
+  },
+  "95-watch-20261124-000-new.json": {
+   "acts": [
+    "4-2-1"
+   ],
+   "sha256": "b8c6d79ffbd8c3ef7dcbe83f5bfb7d150b2b7cf8a6201b7494c77bc4d033a2f8"
   }
  },
  "schema": 1
