@@ -1,0 +1,95 @@
+{
+ "generated": "2026-11-24T12:47:43Z",
+ "latest": {
+  "lexwork-menzingen-city|switzerland/zug/menzingen/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 5,
+    "match_old": 0,
+    "method": "the collection's PDF of the act's current version (its pdf_link, a second rendering of the same text), its words against the words of the version held here (97% or more found = agrees)",
+    "sampled": 5,
+    "unreadable": 0
+   },
+   "census": {
+    "checked": 7,
+    "current": 41,
+    "gone": 0,
+    "held": 41,
+    "not_at_source": 0,
+    "out_of_scope": 0,
+    "pending": 1,
+    "repo": 41,
+    "source_in_scope": 42
+   },
+   "check_id": "ch-lexwork-menzingen-city-20261124T124658Z",
+   "commits": {
+    "count": 2,
+    "from": "02bc8ca474373636c1f0b062f92020b27e2f484e",
+    "to": "4ca9b84e15c606329f4baaf1fffc79ae8f84d93e"
+   },
+   "corpus": "switzerland/zug/menzingen/acts",
+   "error": null,
+   "finished": "2026-11-24T12:47:43Z",
+   "flags": [],
+   "gap": 0,
+   "note": "menzingen.tlex.ch: index of 42 acts (42 in force); held 41; 1 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 6 held acts compared with the collection this check (every one within 7 days); 1 candidate acts read",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "4.2-1"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 15,
+   "runner": "lawwatch switzerland (d83546088b)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "4.2-1"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "42 entries, 42 in force (menzingen.tlex.ch)",
+   "source": "lexwork-menzingen-city",
+   "started": "2026-11-24T12:46:58Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [],
+     "new_acts": [
+      "4-2-1"
+     ]
+    },
+    "left_for_next_check": 0,
+    "letters_check_dropped": {},
+    "new": 1,
+    "nothing_new": 0,
+    "parts": [
+     "95-watch-20261124-000-new.json"
+    ],
+    "pdf_only": 0,
+    "re_read": 0,
+    "unreadable": 0
+   },
+   "verify": {
+    "cycle_days": 7,
+    "examples": [],
+    "held": 42,
+    "method": "each act compared this check (7 of 42: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from menzingen.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "not_compared": {},
+    "not_compared_why": null,
+    "ok": true,
+    "swept": 7,
+    "versions_checked": 7,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
