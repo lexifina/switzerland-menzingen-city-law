@@ -6,18 +6,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Menzingen only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-24 12:47 UTC, Menzingen: systematic collection (menzingen.tlex.ch): 15 addresses read; 1 added, 0 changed, 0 removed; changes found; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-25 08:20 UTC, Menzingen: systematic collection (menzingen.tlex.ch): 15 addresses read; 0 added, 1 changed, 0 removed; changes found; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Menzingen: systematic collection (menzingen.tlex.ch)](https://menzingen.tlex.ch/) | `<act>/` | daily | 2026-11-24 12:47 UTC | changes found | watched |
+| [Menzingen: systematic collection (menzingen.tlex.ch)](https://menzingen.tlex.ch/) | `<act>/` | daily | 2026-11-25 08:20 UTC | changes found | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 08:20](checks/2026-11.md#ch-lexwork-menzingen-city-20261125t082030z) | lexwork-menzingen-city | 15 | 0 | 1 | 0 | 0 (0) | changes found | [2](https://github.com/lexifina/switzerland-menzingen-city-law/compare/11ab06d7c25a...b9b99c172c63) |
 | [2026-11-24 12:46](checks/2026-11.md#ch-lexwork-menzingen-city-20261124t124658z) | lexwork-menzingen-city | 15 | 1 | 0 | 0 | 0 (0) | changes found | [2](https://github.com/lexifina/switzerland-menzingen-city-law/compare/02bc8ca47437...4ca9b84e15c6) |
 
 ## Check it yourself
