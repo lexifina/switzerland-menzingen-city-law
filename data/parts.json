@@ -56,6 +56,12 @@
     "4-2-1"
    ],
    "sha256": "b8c6d79ffbd8c3ef7dcbe83f5bfb7d150b2b7cf8a6201b7494c77bc4d033a2f8"
+  },
+  "95-watch-20261125-001.json": {
+   "acts": [
+    "1-7-1-1"
+   ],
+   "sha256": "4c84ad4a144d285a4cf6cad6c7bc0cf3233814e7d8034e9be43608f0f43d7514"
   }
  },
  "schema": 1

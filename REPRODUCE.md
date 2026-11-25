@@ -1,6 +1,6 @@
 # How this repository was made (Menzingen (city))
 
-This file is written by the build on 2026-11-24, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -21,7 +21,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `1-6-1-delegations-und-kompetenzverordnung` | Verordnung über die Delegation von Kompetenzen des Gemeinderates an seine Mitglieder und die Verwaltung | 1 | 2025-01-01 to 2025-01-01 |
 | `1-6-2-delegationsbeschluss` | Beschluss über die Subdelegation von Entscheidungsbefugnissen der einzelnen Gemeinderatsmitglieder an die ihnen unterstellte Abteilung | 1 | 2025-01-01 to 2025-01-01 |
 | `1-7-1-bpr` | Behörden- und Personalreglement | 1 | 2024-01-01 to 2024-01-01 |
-| `1-7-1-1` | Personalverordnung | 1 | 2025-01-01 to 2025-01-01 |
+| `1-7-1-1` | Personalverordnung | 2 | 2025-01-01 to 2026-01-01 |
 | `2-1-1` | Verordnung über die Gebühren im Beurkundungswesen | 1 | 2014-01-01 to 2014-01-01 |
 | `4-1-1` | Reglement über die familienergänzende Betreuung von Kindern | 1 | 2016-01-01 to 2016-01-01 |
 | `4-2-2` | Reglement Schulzahnarzt-Dienst | 1 | 2021-08-01 to 2021-08-01 |
@@ -57,21 +57,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `9-5-1` | Festlegung der Freinächte | 1 | 2004-10-25 to 2004-10-25 |
 | `4-2-1` | Schul- und Disziplinarordnung | 1 | 2024-05-01 to 2024-05-01 |
 
-The build made 42 commits:
+The build made 43 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 2 | baseline texts where the record starts |
-| 40 | named laws, court decisions and treaties |
+| 41 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-24.
+- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 42 laws in the record.
-- 80 tags.
+- 43 laws in the record.
+- 82 tags.
 
 ## Dates
 
@@ -83,7 +83,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `736a8563cfe03e87020ba57812558d3f26ed5279a7082fabc0da9a34a6e29a1a` (425002 bytes).
+- Corpus: sha256 `eb67796d1026029e7687843fd6fb6730d7431a0268b216eaba046bd5eedcc9ee` (446259 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 

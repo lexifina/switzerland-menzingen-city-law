@@ -128,12 +128,21 @@
    "versions": [
     {
      "from": "2025-01-01",
+     "to": "2025-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 26,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/1.7-1.1/versions/112",
+     "sha256": "139122d56a9b42d949f47b430cef37f7130a10e30ac56d8d999a95225cadf05e"
+    },
+    {
+     "from": "2026-01-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
-     "units": 26,
+     "units": 25,
      "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/1.7-1.1",
-     "sha256": "2a470ba920662d38091be68b606b8c42bc387bd183ad8eac51750b92edf7099a"
+     "sha256": "9223a8ccbe00a710099d2bca4fa70d4fdb6a7ed9d1be28079fde1587974acff9"
     }
    ]
   },
