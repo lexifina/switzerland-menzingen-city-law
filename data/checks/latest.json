@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:27:46Z",
+ "generated": "2026-11-26T07:19:08Z",
  "latest": {
   "lexwork-menzingen-city|switzerland/zug/menzingen/acts": {
    "attempt": 1,
@@ -14,67 +14,49 @@
    },
    "census": {
     "checked": 6,
-    "current": 41,
+    "current": 42,
     "gone": 0,
     "held": 42,
     "not_at_source": 0,
     "out_of_scope": 0,
-    "pending": 1,
+    "pending": 0,
     "repo": 42,
     "source_in_scope": 42
    },
-   "check_id": "ch-lexwork-menzingen-city-20261125T082030Z",
-   "commits": {
-    "count": 2,
-    "from": "11ab06d7c25a16efaa8d655420a335e09a1d0b78",
-    "to": "b9b99c172c63929a40cfee31fde74a656d8b375c"
-   },
+   "check_id": "ch-lexwork-menzingen-city-20261126T071217Z",
+   "commits": null,
    "corpus": "switzerland/zug/menzingen/acts",
    "error": null,
-   "finished": "2026-11-25T08:20:59Z",
+   "finished": "2026-11-26T07:12:35Z",
    "flags": [],
    "gap": 0,
    "note": "menzingen.tlex.ch: index of 42 acts (42 in force); held 42; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 6 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
-   "outcome": "changed",
+   "outcome": "no-change",
    "published": {
     "added": [],
-    "changed": [
-     "1.7-1.1"
-    ],
+    "changed": [],
     "removed": []
    },
-   "requests": 15,
+   "requests": 14,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [
-     "1.7-1.1"
-    ],
+    "changed": [],
     "removed": []
    },
    "snapshot": "42 entries, 42 in force (menzingen.tlex.ch)",
    "source": "lexwork-menzingen-city",
-   "started": "2026-11-25T08:20:30Z",
+   "started": "2026-11-26T07:12:17Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "1-7-1-1"
-     ],
-     "new_acts": []
-    },
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
     "nothing_new": 0,
-    "parts": [
-     "95-watch-20261125-001.json"
-    ],
+    "parts": [],
     "pdf_only": 0,
-    "re_read": 1,
+    "re_read": 0,
     "unreadable": 0
    },
    "verify": {
@@ -86,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 6,
-    "versions_checked": 7,
+    "versions_checked": 6,
     "versions_differ": 0
    }
   }
