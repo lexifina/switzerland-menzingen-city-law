@@ -8,8 +8,8 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Menzingen: Systematische Sammlung (menzingen.tlex.ch) · `switzerland/zug/menzingen/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 07:12 UTC**.
-- Vorschriften hier: 42; aktuell gegenüber der Quelle: 42; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-27 07:06 UTC**.
+- Vorschriften hier: 42; aktuell gegenüber der Quelle: 41; an der Quelle geändert seit der Fassung hier: 1; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 6 der 42 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
 - Nicht veröffentlicht: 0 (—); ohne Grund: 0.
 

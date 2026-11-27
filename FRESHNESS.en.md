@@ -8,8 +8,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Menzingen: systematic collection (menzingen.tlex.ch) · `switzerland/zug/menzingen/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 07:12 UTC**.
-- Acts held here: 42; current at the source: 42; changed at the source since the version held here: 0; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-27 07:06 UTC**.
+- Acts held here: 42; current at the source: 41; changed at the source since the version held here: 1; no longer at the source: 0.
 - Compared with the source in this read: 6 of the 42 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 0 (—); with no reason: 0.
 
