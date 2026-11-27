@@ -1,6 +1,6 @@
 # How this repository was made (Menzingen (city))
 
-This file is written by the build on 2026-11-25, the day the source data was retrieved.
+This file is written by the build on 2026-11-27, the day the source data was retrieved.
 
 ## Sources
 
@@ -36,7 +36,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `5-1-1` | Verordnung über die Lärmbekämpfung | 1 | 1972-06-29 to 1972-06-29 |
 | `5-5-1` | Feuerwehr-Reglement | 1 | 1997-01-01 to 1997-01-01 |
 | `6-4-1` | Verordnung zum Mahnwesen von Gebühren und Auslagen | 1 | 2019-01-01 to 2019-01-01 |
-| `6-5-1` | Richtlinie für die Vergabe der In- und Auslandhilfe | 1 | 2022-09-01 to 2022-09-01 |
+| `6-5-1` | Richtlinie für die Vergabe der In- und Auslandhilfe | 2 | 2022-09-01 to 2025-07-01 |
 | `6-6-1` | Benützungsreglement Mehrzweckraum Eu | 1 | 2015-10-20 to 2015-10-20 |
 | `6-6-2` | Benützungsreglement Sporthalle Ochsenmatt | 1 | 2003-11-17 to 2003-11-17 |
 | `6-6-3` | Benützungsreglement Zentrum Schützenmatt | 1 | 2012-01-30 to 2012-01-30 |
@@ -57,21 +57,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `9-5-1` | Festlegung der Freinächte | 1 | 2004-10-25 to 2004-10-25 |
 | `4-2-1` | Schul- und Disziplinarordnung | 1 | 2024-05-01 to 2024-05-01 |
 
-The build made 43 commits:
+The build made 44 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 2 | baseline texts where the record starts |
-| 41 | named laws, court decisions and treaties |
+| 42 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-27.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 43 laws in the record.
-- 82 tags.
+- 44 laws in the record.
+- 84 tags.
 
 ## Dates
 
@@ -83,7 +83,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `eb67796d1026029e7687843fd6fb6730d7431a0268b216eaba046bd5eedcc9ee` (446259 bytes).
+- Corpus: sha256 `34226c93163f03402a73abfa15b14018183d01769bf8c479c0c6179e3f641cea` (452486 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 

@@ -392,12 +392,21 @@
    "versions": [
     {
      "from": "2022-09-01",
+     "to": "2025-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/6.5-1/versions/86",
+     "sha256": "1120f6f46d38ef4725c1e9faa73472a33951f290f33250c30c6186d471a6f91d"
+    },
+    {
+     "from": "2025-07-01",
      "to": null,
      "status": "in force",
      "text_as_of": null,
      "units": 5,
      "source_url": "https://menzingen.tlex.ch/api/de/texts_of_law/6.5-1",
-     "sha256": "5b46c29879cb7bd03d6629958af6579142f0bb64459792ed1ad5d9e336bde9b5"
+     "sha256": "0e4936231183dfcf490f56c4f05c7fdbb4b7d8f1664172e6cac9a3bc5e20c0de"
     }
    ]
   },
